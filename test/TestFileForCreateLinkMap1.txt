@@ -1,0 +1,3 @@
+term
+a word whose definition is in a glossary
+
